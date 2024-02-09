@@ -1,0 +1,4 @@
+(;FF[4]AP[KaTrain:1.12.0]
+C[[{"row": 1, "col": 0, "visits": 3306, "currentPlayer": "B", "scoreLead": -2.87759531, "scoreStdev": 5.16427688, "winrate": 0.01290089, "order": 1}, {"row": 0, "col": 1, "visits": 3306, "currentPlayer": "B", "scoreLead": -2.87759531, "scoreStdev": 5.16427688, "winrate": 0.01290089, "order": 2}, {"row": 0, "col": 0, "visits": 3306, "currentPlayer": "B", "scoreLead": -2.87759531, "scoreStdev": 5.16427688, "winrate": 0.01290089, "order": 3}, {"row": 1, "col": 1, "visits": 3306, "currentPlayer": "B", "scoreLead": -2.87759531, "scoreStdev": 5.16427688, "winrate": 0.01290089, "order": 0}, {"row": null, "col": null, "visits": 306, "currentPlayer": "B", "scoreLead": -6.04376155, "scoreStdev": 4.62479719, "winrate": 0.00173061905, "order": 0}\]]
+CA[UTF-8]DT[2024-01-27 16 41 44]GM[1]KM[0.5]KTV[1.0]
+PB[Human (Normal Game)ㅤ​]PW[Human (Normal Game)ㅤ​]RU[japanese]SZ[2])
